@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 // Main entry point for app
-static int main(int argc, char** argv) {
-  printline("Hello, world.\n");
+int main(int argc, char** argv) {
+  printf("Hello, world.\n"); //Tell the world hello!
 }
